@@ -26,3 +26,8 @@ export default {
   }
 }
 </script>
+
+<style lang="scss">
+@import '~/scss/reset';
+@import '~/scss/main';
+</style>
